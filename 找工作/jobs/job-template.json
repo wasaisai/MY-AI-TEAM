@@ -1,0 +1,113 @@
+{
+  "job_id": "example_001",
+  "source": "zhilian",
+  "url": "https://www.zhaopin.com/job/xxxxx",
+  "collected_date": "2026-04-24",
+  "status": "pending",
+  "company": {
+    "name": "某某科技有限公司",
+    "size": "500-1000人",
+    "type": "互联网",
+    "industry": "企业服务",
+    "location": "北京-朝阳区",
+    "financing_stage": "C轮",
+    "website": "https://example.com",
+    "description": "公司简介：专注于企业级SaaS服务，为中大型企业提供数字化转型解决方案。"
+  },
+  "position": {
+    "title": "高级前端工程师",
+    "department": "技术部",
+    "report_to": "前端技术负责人",
+    "team_size": "10-15人",
+    "work_location": "北京-朝阳区-望京",
+    "work_mode": "混合办公（每周3天到岗）"
+  },
+  "salary": {
+    "min": 25000,
+    "max": 35000,
+    "currency": "CNY",
+    "period": "monthly",
+    "months": 14,
+    "note": "14薪 + 年终奖 + 期权"
+  },
+  "requirements": {
+    "education": "本科及以上",
+    "major": "计算机相关专业优先",
+    "experience_years": "3-5年",
+    "skills": [
+      "精通 React 或 Vue 框架",
+      "熟练掌握 TypeScript",
+      "熟悉前端工程化和构建工具（Webpack/Vite）",
+      "了解 Node.js 后端开发",
+      "有大型项目经验",
+      "良好的代码规范和文档习惯"
+    ],
+    "preferred_skills": [
+      "有微前端架构经验",
+      "熟悉性能优化",
+      "了解 CI/CD 流程",
+      "有开源项目贡献经验"
+    ],
+    "soft_skills": [
+      "良好的团队协作能力",
+      "较强的学习能力",
+      "良好的沟通表达能力"
+    ]
+  },
+  "responsibilities": [
+    "负责公司核心产品的前端开发工作",
+    "参与产品需求评审，提供技术方案",
+    "优化前端性能，提升用户体验",
+    "参与前端技术选型和架构设计",
+    "指导初级工程师，进行代码审查",
+    "编写技术文档，分享技术经验"
+  ],
+  "benefits": [
+    "五险一金",
+    "带薪年假",
+    "弹性工作",
+    "下午茶",
+    "团建活动",
+    "技术培训",
+    "节日福利",
+    "健身房",
+    "股票期权"
+  ],
+  "tech_stack": [
+    "React 18",
+    "TypeScript",
+    "Next.js",
+    "Ant Design",
+    "Webpack 5",
+    "Node.js",
+    "MongoDB",
+    "Redis"
+  ],
+  "work_environment": {
+    "overtime_culture": "弹性工作，不强制加班",
+    "team_atmosphere": "技术氛围浓厚，扁平化管理",
+    "development_opportunities": "有明确的晋升通道和技术成长路径"
+  },
+  "contact": {
+    "recruiter_name": "李女士",
+    "recruiter_title": "HR",
+    "email": "hr@example.com",
+    "phone": "010-12345678",
+    "wechat": "hr_example"
+  },
+  "application_process": [
+    "简历筛选",
+    "电话初试",
+    "技术面试（2-3轮）",
+    "HR面试",
+    "Offer发放"
+  ],
+  "notes": "这是一个职位信息模板，请按照此格式填写实际职位信息。可以删除不适用的字段。",
+  "tags": [
+    "React",
+    "TypeScript",
+    "前端",
+    "SaaS",
+    "混合办公"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "user_info": {
+    "name": "焦越越",
+    "current_title": "前端开发工程师",
+    "years_of_experience": 6,
+    "location": "北京",
+    "education": "本科",
+    "major": "电子商务",
+    "university": "内蒙古工业大学",
+    "email": "15354836451@163.com",
+    "phone": "15354836451",
+    "github": "https://github.com/wasaisai",
+    "website": "https://jiaoyueyue.cn"
+  },
+  "job_preferences": {
+    "desired_positions": [
+      "前端开发工程师",
+      "Web前端工程师",
+      "全栈工程师",
+      "AI应用开发工程师"
+    ],
+    "salary_range": {
+      "min": 15000,
+      "max": 25000,
+      "currency": "CNY",
+      "period": "monthly",
+      "negotiable": true
+    },
+    "locations": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "远程"
+    ],
+    "company_size": [
+      "20-50人",
+      "50-100人",
+      "100-500人",
+      "500-1000人",
+      "1000人以上"
+    ],
+    "company_type": [
+      "互联网",
+      "人工智能",
+      "企业服务",
+      "教育科技",
+      "金融科技"
+    ],
+    "work_mode": [
+      "全职",
+      "远程",
+      "混合办公"
+    ],
+    "exclude_keywords": [
+      "外包",
+      "派遣",
+      "实习",
+      "兼职",
+      "劳务",
+      "996",
+      "大小周"
+    ],
+    "industry_preferences": {
+      "preferred": [
+        "人工智能",
+        "AI应用",
+        "LLM",
+        "SaaS",
+        "教育科技",
+        "企业服务"
+      ],
+      "avoid": [
+        "游戏",
+        "直播",
+        "区块链"
+      ]
+    }
+  },
+  "matching_weights": {
+    "skills": 0.4,
+    "experience": 0.3,
+    "salary": 0.2,
+    "other": 0.1
+  },
+  "matching_thresholds": {
+    "minimum_score": 60,
+    "high_priority_score": 80,
+    "auto_apply_score": 90
+  },
+  "message_style": {
+    "tone": "professional",
+    "length": "medium",
+    "highlight_projects": true,
+    "include_github": true,
+    "include_portfolio": false,
+    "templates": {
+      "default": "template_1",
+      "tech_company": "template_1",
+      "startup": "template_2",
+      "enterprise": "template_3"
+    }
+  },
+  "automation_settings": {
+    "auto_analyze": true,
+    "auto_generate_message": true,
+    "auto_send": false,
+    "daily_limit": 20,
+    "batch_size": 5,
+    "retry_failed": true
+  },
+  "notification_settings": {
+    "email_notifications": true,
+    "high_match_alert": true,
+    "reply_alert": true,
+    "daily_summary": true
+  },
+  "filters": {
+    "min_company_age": 1,
+    "require_social_insurance": true,
+    "require_housing_fund": true,
+    "max_overtime_culture": "弹性工作",
+    "preferred_tech_stack": [
+      "React",
+      "Vue",
+      "Next.js",
+      "TypeScript",
+      "Node.js",
+      "AI",
+      "LLM",
+      "LangChain"
+    ]
+  },
+  "notes": {
+    "last_updated": "2026-04-24",
+    "version": "1.0",
+    "description": "焦越越的求职配置文件"
+  }
+}
